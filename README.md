@@ -20,6 +20,6 @@ Curenty living in Montpellier.
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
 ## Software I use
-[![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)] [![My Skills](https://skillicons.dev/icons?i=rider)](https://skillicons.dev)  (https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=rider)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 For any contact please contact me on my <a href="https://www.linkedin.com/in/louisraverdy/">Linkedin</a>
