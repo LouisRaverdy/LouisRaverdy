@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Louis, student at 42 Perpignan.
-Curenty living in Montpellier.
+#### I'm Louis, student at 42 Perpignan.
+#### Curenty living in Montpellier.
 
 <div align=center>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvzeg6vj6359701p4xdjazn0f/stats?cursusId=21&coalitionId=317" alt="lraverdy's 42 stats" /></a>
