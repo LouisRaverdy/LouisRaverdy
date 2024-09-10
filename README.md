@@ -4,7 +4,7 @@
 #### Curenty living in Montpellier.
 
 <div align=center>
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvzeg6vj6359701p4xdjazn0f/stats?cursusId=21&coalitionId=317" alt="lraverdy's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/lraverdy?1337Badge=off&UM6P=off" alt="lraverdy's 42 stats" /></a>
 </div>
 
 ## Languages I use
