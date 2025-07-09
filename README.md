@@ -1,11 +1,7 @@
 # Hi there 👋
 
-#### I'm Louis, student at 42 Perpignan.
-#### Curenty living in Montpellier.
-
-<div align=center>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/lraverdy?1337Badge=off&UM6P=off" alt="lraverdy's 42 stats" /></a>
-</div>
+I'm **Louis**, student at *42Perpignan*.<br>
+Curenty living in **France**
 
 ## Languages I use
 ### As back-end
