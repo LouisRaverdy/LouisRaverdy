@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm **Louis**, student at *42Perpignan*.<br>
-Curenty living in **France**
+I'm **Louis**, student at *42Perpignan*. I finished the common core in July 2025. 🎉<br>
+Curenty living in **Montpellier** 🇫🇷, soon in **Toronto** 🇨🇦.
 
 ## Languages I use
 ### As back-end
