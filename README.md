@@ -1,21 +1,41 @@
-# Hi there 👋
+# Hi there, I'm Louis! 👋
 
-I'm **Louis**, student at *42Perpignan*. I finished the common core in July 2025. 🎉<br>
-Curenty living in **Montpellier** 🇫🇷, soon in **Toronto** 🇨🇦.
+<p align="center">
+  <img src="https://img.shields.io/badge/Common_Core_Completed-ffffff?style=for-the-badge&logo=42&logoColor=black" />
+  <a href="https://www.linkedin.com/in/louisraverdy/" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
+</p>
 
-## Languages I use
-### As back-end
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-### As front-end
-[![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+### 🚀 About Me
+- 🎓 **Student at 42 Perpignan** | Common Core completed in July 2025.
+- 📍 Currently based in **Montpellier, France** 🇫🇷 | Soon in **Toronto, Canada** 🇨🇦.
+- 🛠️ **Full-stack Developer** with a focus on high-performance systems and sleek mobile interfaces.
 
-## Frameworks I use
-[![My Skills](https://skillicons.dev/icons?i=electron)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+---
 
-## Services I use
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
+### 🛠️ My Tech Stack
 
-## Software I use
-[![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=rider)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+| Category | Skills |
+| :--- | :--- |
+| **Mobile & Front-end** | [![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css)](https://skillicons.dev) |
+| **Systems & Back-end** | [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,electron)](https://skillicons.dev) |
+| **BaaS & Tools** | [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,docker,git,postman)](https://skillicons.dev) |
+| **Creative & Environment** | [![My Skills](https://skillicons.dev/icons?i=unreal,figma,vscode,rider)](https://skillicons.dev) |
 
-For any contact please contact me on my <a href="https://www.linkedin.com/in/louisraverdy/">Linkedin</a>
+---
+
+### 🔭 Current Focus & Contributions
+- 🗺️ **Open Source Contributor** to [flutter-maplibre-gl](https://github.com/maplibre/flutter-maplibre-gl).
+- 📱 **Cross-platform**: Building scalable apps with **Flutter** and **Supabase/Firebase**.
+- 🎮 **Game Dev**: Leveraging **Unreal Engine** for interactive environments.
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/louisraverdy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
