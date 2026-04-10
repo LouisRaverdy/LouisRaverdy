@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🎓 **Student at 42 Perpignan** | Common Core completed in July 2025.
-- 📍 Currently based in **Montpellier, France** 🇫🇷 | Soon in **Toronto, Canada** 🇨🇦.
+- 📍 Currently in **Toronto, Canada** 🇨🇦 | Based in **Montpellier, France** 🇫🇷
 - 🛠️ **Full-stack Developer** with a focus on high-performance systems and sleek mobile interfaces.
 
 ---
