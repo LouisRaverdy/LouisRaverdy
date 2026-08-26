@@ -10,7 +10,7 @@
 
 - 🎓 **42 Perpignan** : Common Core ✓ · Internship I ✓ · RNCP 7 (Bac+5) in progress
 - 💼 Just finished a **6-month internship at Bastide Médical** (HealthTech)
-- 📍 Currently in **Toronto, Canada** 🇨🇦 until June 2026 · Based in **Montpellier, France** 🇫🇷
+- 📍 Currently in **Montpellier, France** 🇫🇷 · Was in **Toronto, Canada** 🇨🇦
 - 🛠️ **Full-stack developer** : from backend microservices to mobile in production
 - 🎯 Looking for a **2-year apprenticeship** starting September 2026
 
